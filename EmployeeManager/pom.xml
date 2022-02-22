@@ -50,6 +50,8 @@
         		<version>3.0.3</version>
 		<configuration>
   			<appName>EmployeeManager</appName>
+			<source>1.7</source>
+       			<target>1.7</target>
 		</configuration>
       		</plugin>
 		</plugins>
