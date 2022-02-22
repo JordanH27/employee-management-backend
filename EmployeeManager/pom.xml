@@ -52,6 +52,9 @@
   			<appName>EmployeeManager</appName>
 			<source>1.7</source>
        			<target>1.7</target>
+			<processTypes>
+     				<web>java $JAVA_OPTS -cp target/classes:target/dependency/* Main</web>
+  			</processTypes>
 		</configuration>
       		</plugin>
 		</plugins>
